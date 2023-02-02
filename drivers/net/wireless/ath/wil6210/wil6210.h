@@ -63,7 +63,6 @@ union wil_tx_desc;
 #define WIL_MAX_BUS_REQUEST_KBPS 800000 /* ~6.1Gbps */
 
 #define WIL_NUM_LATENCY_BINS 200
-
 /* maximum number of virtual interfaces the driver supports
  * (including the main interface)
  */
